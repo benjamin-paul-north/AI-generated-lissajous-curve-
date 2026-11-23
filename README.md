@@ -2,7 +2,7 @@
 This is a project I've been working on with chatgpt on 1 to 2 mapping 
 # A One-Parameter Dense Representation of a Two-Dimensional Region Using an Irrational Lissajous Flow
 
-**Author:** [Your name and collaborators]  
+**Author:** Ben North and chatgpt  
 **Date:** November 23, 2026
 
 ## Abstract
